@@ -31,7 +31,7 @@ The command starts the Web UI at `http://127.0.0.1:3080` by default and opens it
 To run from a repository checkout:
 
 ```sh
-git clone https://github.com/auraecosystem/DHS.git
+git clone https://github.com/auraecosystem/dah.git
 cd DSH
 cd DSH-superagent
 pnpm install
